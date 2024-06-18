@@ -1,0 +1,57 @@
+/*
+To change this license header, choose License Headers in Project Properties.
+To change this template file, choose Tools | Templates
+and open the template in the editor.
+*/
+/* 
+    Created on : 14/05/2024, 14:46:45
+    Author     : Senai
+*/
+haeder .navbar-bar .bg-light {
+    background-color: #821A9E !important;
+}
+.bg-light {
+    background-color: #821A9E !important;
+}
+body{
+    background-color: #8C888D;
+}
+footer{
+    background-color: #821A9E !important;
+}
+.categoria-text{
+    color: white;
+}
+
+.categoria a{
+    color: white;
+}
+
+.navbar-brand i{
+    color: #FA00FF;
+}
+
+.collapse navbar-collapse{
+    background-color: #999999 !important;
+}
+
+.btn btn-outline-success{
+        border-radius: 0.25rem;
+        color: #28a745;
+        border-color: #28a745;
+        
+}
+
+.btn {
+    background-color: white;
+    border-radius: 15px;
+    border-bottom-left-radius: initial;
+    border-top-left-radius: initial;
+    border-color: transparent;
+}
+.form-control{
+    border-bottom-right-radius: initial !important;
+    border-top-right-radius: initial !important;
+    border-bottom-left-radius: 15px;
+    border-top-left-radius: 15px;
+}

@@ -1,0 +1,46 @@
+body {
+    width: 100%;
+    margin: 0;
+    padding: 0;
+}
+
+.container-cadastro {
+    width: 85%;
+    margin: 0 auto;
+    margin-top: 35px;
+}
+
+label{
+    display: inline-block;
+    color:#821A9E !important;
+}
+
+
+#data-nascimento{
+    width: 20%;
+}
+
+body{
+    background-color: #8C888D;
+ }
+ 
+ a{
+    color: #ffffff;
+    margin-top: 15px;
+    display: grid;
+    justify-content: center;
+    align-content: center;
+}
+
+.btn-custom {
+    width: 30%;
+    background-color: #821A9E;
+    border:#ffffff;
+ }
+ 
+ .btn btn-secudary a{
+     margin-left: 50vh;
+     align-content: center;
+ }
+ 
+ 

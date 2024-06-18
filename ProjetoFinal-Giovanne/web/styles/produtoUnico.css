@@ -1,0 +1,72 @@
+/*
+To change this license header, choose License Headers in Project Properties.
+To change this template file, choose Tools | Templates
+and open the template in the editor.
+*/
+/* 
+    Created on : 23/05/2024, 15:08:37
+    Author     : Senai
+*/
+
+.row {
+    display: -ms-flexbox;
+    display: flex;
+    flex-wrap: wrap;
+    margin-right: 0px !important;
+    margin-left: 0px !important;
+}
+
+.card-custom {
+    box-shadow: 0 4px 8px rgba(0,0,0,0.1);
+    transition: all 0.3s ease;
+    justify-content: center;
+}
+
+.card-custom {
+    box-shadow: 0 8px 16px rgba(0,0,0,0.2);
+    transform: translateY(-2px);
+    align-items: center;
+}
+
+.card{
+    margin-top: 10px;
+}
+
+.imagemProduto img {
+    width: 100%;
+    height: auto;
+    object-fit: cover; 
+    border-radius: 0.25rem; 
+}
+
+.card-body {
+    padding: 15px;
+}
+
+.card-title {
+    margin-bottom: 10px;
+    color: #333;
+    font-size: 1.25rem;
+}
+
+.card-text {
+    color: #666;
+    font-size: 1rem;
+    margin-bottom: 5px;
+}
+
+
+.categoria-text {
+    font-weight: bold;
+    color: #0056b3;
+}
+
+.foot{
+    margin-top:13px; 
+    width: 100%;
+    height: 9vh;
+    background-color: #821A9E !important;
+}
+div{
+    display: block !important;
+}
